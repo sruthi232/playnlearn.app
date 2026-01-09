@@ -1,0 +1,407 @@
+{
+  "common": {
+    "welcome": "Welcome!",
+    "chooseRole": "Choose how you want to continue",
+    "chooseDifferentRole": "Choose a different role",
+    "language": "Language",
+    "chooseLanguage": "Choose Your Language",
+    "search": "Search languages",
+    "selected": "Selected",
+    "student": "Student",
+    "teacher": "Teacher",
+    "parent": "Parent",
+    "learnPlayEarn": "Learn, play & earn",
+    "guideMonitor": "Guide & monitor",
+    "trackProgress": "Track progress",
+    "educationTransformsVillages": "Education That Transforms Villages",
+    "studentLogin": "Student Login",
+    "teacherLogin": "Teacher Login",
+    "parentLogin": "Parent Login",
+    "email": "Email/Name",
+    "emailPlaceholder": "Email/Phone",
+    "password": "Password",
+    "passwordPlaceholder": "Password",
+    "logIn": "LOG IN",
+    "signUp": "Sign up",
+    "dontHaveAccount": "Don't have your account?",
+    "homeDashboard": "HOME DASHBOARD",
+    "backAdventurer": "Hey, back adventurer! 👋",
+    "readyForAdventure": "Ready for today's adventure!",
+    "signingIn": "Signing in...",
+    "dashboard": "Dashboard",
+    "subjects": "Subjects",
+    "rewards": "Rewards",
+    "profile": "Profile",
+    "leaderboard": "Leaderboard",
+    "logout": "Logout",
+    "settings": "Settings",
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading...",
+    "close": "Close",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "back": "Back",
+    "home": "Home",
+    "name": "Name",
+    "location": "Location",
+    "school": "School",
+    "achievements": "Achievements",
+    "stats": "Stats",
+    "editProfile": "Edit Profile",
+    "logOut": "Log Out",
+    "gameLevels": "Game Levels",
+    "progress": "Progress",
+    "complete": "Levels Complete",
+    "intermediate": "Intermediate",
+    "beginner": "Beginner",
+    "advanced": "Advanced",
+    "starter": "Starter",
+    "learner": "Learner",
+    "startLevel": "Start Level",
+    "playAgain": "Play Again",
+    "modulesComplete": "Modules Complete"
+  },
+  "dashboard": {
+    "greeting": "Hey",
+    "readyForAdventure": "Ready for today's adventure!",
+    "todayHours": "Today",
+    "dayStreak": "Day Streak",
+    "badges": "Badges",
+    "subjects": "Subjects",
+    "dailyChallenges": "Daily Challenges",
+    "weeklyChallenges": "Weekly Challenges",
+    "title": "Dashboard"
+  },
+  "sync": {
+    "lastSynced": "Last synced",
+    "syncing": "Syncing Your Learning Data…",
+    "syncedUpToDate": "✅ Synced up to date",
+    "readyToSync": "Ready to sync",
+    "justNow": "Just now",
+    "unknown": "Never synced",
+    "offline": "Offline – will sync when connected",
+    "languageChanged": "Language changed to English",
+    "tooltip": "Data not synced. Tap to sync now.",
+    "noInternet": "No internet connection",
+    "noInternetMessage": "Please check your connection and try again.",
+    "upToDate": "Up to date ✓",
+    "allDataSynced": "All data synced",
+    "syncStatus": "Sync Status",
+    "successTitle": "Data Synced Successfully!",
+    "successSubtitle": "Your learning progress is now safely saved.",
+    "partialFailure": "Some data could not be synced.",
+    "retryMessage": "Sync failed. Please try again when internet is stable.",
+    "inProgress": "Sync in progress...",
+    "userProgress": "⏳ Learning Progress Syncing…",
+    "leaderboard": "⏳ Leaderboard Updating…",
+    "ecoCoins": "⏳ EduCoins Wallet Syncing…",
+    "subjectProgress": "⏳ Subject Progress Saving…",
+    "tasksVerification": "⏳ Tasks & Verifications Updating…",
+    "failed": "Failed",
+    "continueButton": "Awesome! Continue Learning",
+    "tryLater": "Try Later",
+    "retrySync": "Retry Sync",
+    "syncFailed": "Sync failed",
+    "syncFailedMessage": "Sync failed. Please try again when internet is stable.",
+    "close": "Close"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "हिंदी (Hindi)",
+    "tamil": "தமிழ் (Tamil)",
+    "telugu": "తెలుగు (Telugu)",
+    "kannada": "ಕನ್ನಡ (Kannada)",
+    "malayalam": "മലയാളം (Malayalam)",
+    "marathi": "मराठी (Marathi)",
+    "bengali": "বাংলা (Bengali)",
+    "gujarati": "ગુજરાતી (Gujarati)",
+    "odia": "ଓଡିଆ (Odia)",
+    "urdu": "اردو (Urdu)"
+  },
+  "subjects": {
+    "chooseSubject": "Choose a Subject",
+    "physics": "Physics",
+    "chemistry": "Chemistry",
+    "biology": "Biology",
+    "mathematics": "Mathematics",
+    "technology": "Technology",
+    "finance": "Finance",
+    "entrepreneurship": "Entrepreneurship",
+    "villageSkills": "Village Skills",
+    "physics_description": "Explore the laws of nature",
+    "chemistry_description": "Mix, react, and discover",
+    "biology_description": "Life sciences & health",
+    "mathematics_description": "Numbers, patterns & problem solving",
+    "technology_description": "Systems, coding & digital world",
+    "finance_description": "Money, markets & economics",
+    "entrepreneurship_description": "Business ideas & innovation",
+    "villageSkills_description": "Practical life & community skills"
+  },
+  "tasks": {
+    "yourTasks": "Your Tasks",
+    "noTasksAvailable": "No tasks available yet",
+    "completeTasksToEarn": "Complete tasks to earn rewards and level up! 🚀",
+    "title": "Tasks",
+    "showing": "📋 Showing",
+    "viewAll": "View All",
+    "tryDifferentCategory": "Try selecting a different category",
+    "earnRewards": "Complete tasks to earn rewards!",
+    "checkSoon": "Check back soon for more tasks",
+    "startTask": "Start an available task to get going!",
+    "progress": "Progress",
+    "inProgress": "In progress...",
+    "verifiedByTeacher": "✅ Verified by Teacher",
+    "pendingVerification": "⏳ Pending Verification",
+    "rejectedRetry": "❌ Rejected - Please retry",
+    "categories": {
+      "village": "Village",
+      "family": "Family",
+      "subject": "Subject",
+      "personal": "Personal"
+    },
+    "status": {
+      "locked": "Locked",
+      "ready": "Ready",
+      "inProgress": "In Progress",
+      "awaitingProof": "Awaiting Proof",
+      "underReview": "Under Review",
+      "completed": "Completed",
+      "rejected": "Rejected"
+    },
+    "actions": {
+      "unlockTask": "Unlock task",
+      "startTask": "🚀 Start Task",
+      "continueTask": "▶️ Continue Task",
+      "submitProof": "Submit Proof"
+    },
+    "proof": {
+      "photo": "📸 Photo",
+      "text": "✍️ Write",
+      "auto": "✓ Auto"
+    },
+    "emptyCompleted": "No completed tasks yet",
+    "emptyActive": "No active tasks",
+    "emptyAvailable": "No available tasks",
+    "emptyAll": "No tasks available"
+  },
+  "rewards": {
+    "title": "Rewards",
+    "rewardsMarketplace": "Rewards Marketplace",
+    "balance": "Balance",
+    "eduCoins": "EduCoins",
+    "earned": "Earned",
+    "spent": "Spent",
+    "redeemRewards": "Redeem Rewards",
+    "awesome": "Awesome!",
+    "earnedByLearning": "You earned this by learning!",
+    "continueShopping": "Continue Shopping",
+    "noRewardsInCategory": "No rewards in this category yet",
+    "keepLearningKeepEarning": "Keep Learning, Keep Earning!",
+    "redeemSuccess": "🎉 You redeemed {{name}}!",
+    "needMoreCoins": "Need {{needed}} more EduCoins!",
+    "almostThere": "Almost there!",
+    "locked": "Locked",
+    "redeem": "Redeem",
+    "earn": "Earn",
+    "more": "more",
+    "transactionHistory": "Transaction History",
+    "noTransactions": "No transactions yet",
+    "completeTasksToEarnCoins": "Complete games and tasks to earn EduCoins!",
+    "backToRewards": "Back to Rewards",
+    "viewHistory": "View History",
+    "motivationalMessage": "Every task, game, and achievement brings you closer to rewards that matter—for you, your family, and your village.",
+    "filters": {
+      "all": "All Rewards",
+      "stationery": "Stationery",
+      "study_purpose": "Study Purpose",
+      "household_needs": "Household Needs",
+      "farming_needs": "Farming Needs",
+      "premium": "Premium",
+      "study_kits": "Study Kits",
+      "upskilling_books": "Upskilling Books",
+      "community_building": "Community Building"
+    },
+    "filterDescriptions": {
+      "all": "Browse all available rewards",
+      "stationery": "Quality writing & drawing supplies",
+      "study_purpose": "Workspace & study essentials",
+      "household_needs": "Daily essentials for families",
+      "farming_needs": "Tools for agricultural success",
+      "premium": "Aspirational long-term goals",
+      "study_kits": "Hands-on learning kits",
+      "upskilling_books": "Knowledge for growth",
+      "community_building": "Assets for village development"
+    }
+  },
+  "physics": {
+    "title": "Physics",
+    "description": "Explore the laws of nature",
+    "games": {
+      "voltageTraP": "Voltage Trap",
+      "voltageTraP_description": "Navigate circuits and understand electricity",
+      "waveRider": "Wave Rider",
+      "waveRider_description": "Master waves and oscillations",
+      "forceBuilder": {
+        "title": "Force Builder",
+        "description": "Build and apply forces to move objects",
+        "instruction": "Apply the right forces to move the objects to the target!"
+      },
+      "gravityDrop": "Gravity Drop",
+      "gravityDrop_description": "Experience the power of gravity",
+      "energyQuest": "Energy Quest",
+      "energyQuest_description": "Transform and conserve energy",
+      "projectileMotion": {
+        "title": "Projectile Motion",
+        "description": "Launch a cannon at the perfect angle and speed to hit the target",
+        "instruction": "Aim and fire the cannon to hit the targets!"
+      }
+    }
+  },
+  "chemistry": {
+    "title": "Chemistry",
+    "description": "Mix, react, and discover",
+    "games": {
+      "reactionDetective": "Reaction Detective",
+      "reactionDetective_description": "Identify and understand chemical reactions",
+      "periodicTable": "Periodic Table",
+      "periodicTable_description": "Explore elements and their properties",
+      "moleculeBuilder": "Molecule Builder",
+      "moleculeBuilder_description": "Build molecules from atoms",
+      "propertyPuzzle": "Property Puzzle",
+      "propertyPuzzle_description": "Match materials to their properties",
+      "equationBuilder": "Equation Builder",
+      "equationBuilder_description": "Balance chemical equations"
+    }
+  },
+  "biology": {
+    "title": "Biology",
+    "description": "Life sciences & health",
+    "games": {
+      "sproutHelp": {
+        "title": "Sprout Help",
+        "description": "Balance water, sunlight, and air to grow plants",
+        "help": "Help the sprout grow by providing the right conditions!"
+      },
+      "goodGermVsBadGerm": {
+        "title": "Good Germ vs Bad Germ",
+        "description": "Understand immune system by fighting pathogens",
+        "help": "Protect your body from harmful germs!"
+      },
+      "cycleTap": {
+        "title": "Cycle Tap",
+        "description": "Learn about natural cycles in ecosystems",
+        "help": "Complete the cycle by tapping the right elements!"
+      },
+      "biologyExplorer": "Biology Explorer",
+      "biologyExplorer_description": "Explore life at different scales"
+    }
+  },
+  "mathematics": {
+    "title": "Mathematics",
+    "description": "Numbers, patterns & problem solving",
+    "games": {
+      "mathMissions": "Math Missions",
+      "mathMissions_description": "Complete math challenges and puzzles"
+    }
+  },
+  "technology": {
+    "title": "Technology",
+    "description": "Systems, coding & digital world",
+    "games": {
+      "debugDungeon": {
+        "title": "Debug Dungeon",
+        "description": "Find and fix bugs in code",
+        "instruction": "Identify what's broken in systems and understand how to fix them!"
+      },
+      "systemBuilder": {
+        "title": "System Builder",
+        "description": "Build systems with correct sequences",
+        "instruction": "Every system has steps that MUST happen in the RIGHT ORDER"
+      },
+      "villageLightUp": {
+        "title": "Village Light-Up",
+        "description": "Rotate wire tiles to complete circuits and power the lights",
+        "instruction": "Complete the electrical circuit by rotating tiles to light up all the houses!"
+      }
+    },
+    "activeLearning": {
+      "title": "Learn by Doing",
+      "points": [
+        "Understand systems step by step",
+        "Fix real-world problems",
+        "Build and debug code"
+      ]
+    }
+  },
+  "finance": {
+    "title": "Finance",
+    "description": "Money, markets & economics",
+    "games": {
+      "budgetSurvival": "Budget Survival",
+      "budgetSurvival_description": "Manage money through real-life scenarios",
+      "priceNegotiator": "Price Negotiator",
+      "priceNegotiator_description": "Learn negotiation and trading skills",
+      "savingsTree": "Savings Tree",
+      "savingsTree_description": "Watch your savings grow over time",
+      "interestSimulator": "Interest Simulator",
+      "interestSimulator_description": "Understand compound interest",
+      "businessBuilder": "Business Builder",
+      "businessBuilder_description": "Create and manage your own business"
+    }
+  },
+  "entrepreneurship": {
+    "title": "Entrepreneurship",
+    "description": "Business ideas & innovation",
+    "games": {
+      "customerFirst": "Customer First",
+      "customerFirst_description": "Build customer relationships and loyalty",
+      "ideaToIncome": "Idea to Income",
+      "ideaToIncome_description": "Turn your ideas into profitable business"
+    },
+    "activeLearning": {
+      "title": "Learn by Doing",
+      "points": [
+        "Develop business ideas",
+        "Understand customer needs",
+        "Create sustainable income"
+      ]
+    }
+  },
+  "villageSkills": {
+    "title": "Village Skills",
+    "description": "Practical life & community skills",
+    "activeLearning": {
+      "title": "Learn by Doing",
+      "points": [
+        "Develop practical skills",
+        "Help your community",
+        "Build sustainable practices"
+      ]
+    }
+  },
+  "learning": {
+    "active": "Active Learning",
+    "passive": "Passive Learning",
+    "gamified": "Gamified Learning",
+    "activeDescription": "Learn by doing and solving real problems",
+    "passiveDescription": "Watch and listen to structured content",
+    "gamifiedDescription": "Learn through interactive games and challenges",
+    "backToSubject": "Back to Subject"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "location": "Location",
+    "school": "School",
+    "achievements": "Achievements",
+    "stats": "Stats",
+    "editProfile": "Edit Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "darkMode": "Dark Mode",
+    "privacy": "Privacy",
+    "logOut": "Log Out"
+  }
+}

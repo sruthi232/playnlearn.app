@@ -1,0 +1,405 @@
+{
+  "common": {
+    "welcome": "स्वागत है!",
+    "chooseRole": "आप कैसे आगे बढ़ना चाहते हैं यह चुनें",
+    "chooseDifferentRole": "एक अलग भूमिका चुनें",
+    "language": "भाषा",
+    "chooseLanguage": "अपनी भाषा चुनें",
+    "search": "भाषाएं खोजें",
+    "selected": "चयनित",
+    "student": "छात्र",
+    "teacher": "शिक्षक",
+    "parent": "माता-पिता",
+    "learnPlayEarn": "सीखें, खेलें और कमाएं",
+    "guideMonitor": "मार्गदर्शन करें और निगरानी करें",
+    "trackProgress": "प्रगति ट्रैक करें",
+    "educationTransformsVillages": "शिक्षा जो गांवों को बदलती है",
+    "studentLogin": "छात्र लॉगिन",
+    "teacherLogin": "शिक्षक लॉगिन",
+    "parentLogin": "माता-पिता लॉगिन",
+    "email": "ईमेल/नाम",
+    "emailPlaceholder": "ईमेल/फोन",
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "पासवर्ड",
+    "logIn": "लॉगिन करें",
+    "signUp": "साइन अप करें",
+    "dontHaveAccount": "आपके पास खाता नहीं है?",
+    "homeDashboard": "होम डैशबोर्ड",
+    "backAdventurer": "अरे, वापस आए साहसी! 👋",
+    "readyForAdventure": "आज के रोमांच के लिए तैयार!",
+    "signingIn": "लॉगिन हो रहे हैं...",
+    "dashboard": "डैशबोर्ड",
+    "subjects": "विषय",
+    "rewards": "पुरस्कार",
+    "profile": "प्रोफाइल",
+    "leaderboard": "लीडरबोर्ड",
+    "logout": "लॉगआउट",
+    "settings": "सेटिंग्स",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "loading": "लोड हो रहा है...",
+    "close": "बंद करें",
+    "confirm": "पुष्टि करें",
+    "cancel": "रद्द करें",
+    "back": "वापस",
+    "home": "घर",
+    "name": "नाम",
+    "location": "स्थान",
+    "school": "स्कूल",
+    "achievements": "उपलब्धियां",
+    "stats": "आंकड़े",
+    "editProfile": "प्रोफाइल संपादित करें",
+    "logOut": "लॉगआउट करें"
+  },
+  "dashboard": {
+    "greeting": "अरे",
+    "readyForAdventure": "आज के रोमांच के लिए तैयार!",
+    "todayHours": "आज",
+    "dayStreak": "लगातार दिन",
+    "badges": "बैज",
+    "subjects": "विषय",
+    "dailyChallenges": "दैनिक चुनौतियाँ",
+    "weeklyChallenges": "साप्ताहिक चुनौतियाँ",
+    "title": "डैशबोर्ड"
+  },
+  "sync": {
+    "lastSynced": "अंतिम सिंक",
+    "syncing": "आपके सीखने के डेटा को सिंक किया जा रहा है…",
+    "syncedUpToDate": "✅ अद्यतन के साथ सिंक हो गया",
+    "readyToSync": "सिंक के लिए तैयार",
+    "justNow": "अभी-अभी",
+    "unknown": "कभी सिंक नहीं हुआ",
+    "offline": "ऑफ़लाइन — कनेक्ट होने पर सिंक होगा",
+    "languageChanged": "भाषा हिंदी में बदल दी गई है",
+    "tooltip": "डेटा सिंक नहीं हुआ। अभी सिंक करने के लिए टैप करें।",
+    "noInternet": "कोई इंटरनेट कनेक्शन नहीं",
+    "noInternetMessage": "कृपया अपने कनेक्शन की जांच करें और फिर से प्रयास करें।",
+    "upToDate": "अद्यतन ✓",
+    "allDataSynced": "सभी डेटा सिंक हो गया",
+    "syncStatus": "सिंक स्थिति",
+    "successTitle": "डेटा सफलतापूर्वक सिंक हो गया!",
+    "successSubtitle": "आपकी सीखने की प्रगति अब सुरक्षित रूप से सहेजी गई है।",
+    "partialFailure": "कुछ डेटा सिंक नहीं हो सका।",
+    "retryMessage": "सिंक विफल रहा। कृपया जब इंटरनेट स्थिर हो तो पुनः प्रयास करें।",
+    "inProgress": "सिंक प्रगति में है...",
+    "userProgress": "⏳ सीखने की प्रगति सिंक की जा रही है…",
+    "leaderboard": "⏳ लीडरबोर्ड अपडेट हो रहा है…",
+    "ecoCoins": "⏳ एडु सिक्के वॉलेट सिंक हो रहा है…",
+    "subjectProgress": "⏳ विषय प्रगति सहेजी जा रही है…",
+    "tasksVerification": "⏳ कार्य और सत्यापन अपडेट हो रहे हैं…",
+    "failed": "विफल",
+    "continueButton": "शानदार! सीखना जारी रखें",
+    "tryLater": "बाद में प्रयास करें",
+    "retrySync": "सिंक दोबारा करें",
+    "syncFailed": "सिंक विफल",
+    "syncFailedMessage": "डेटा सिंक करने में विफल। कृपया जब इंटरनेट स्थिर हो तो पुनः प्रयास करें।",
+    "close": "बंद करें"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "हिंदी",
+    "tamil": "தமிழ்",
+    "telugu": "తెలుగు",
+    "kannada": "ಕನ್ನಡ",
+    "malayalam": "മലയാളം",
+    "marathi": "मराठी",
+    "bengali": "বাংলা",
+    "gujarati": "ગુજરાતી",
+    "odia": "ଓଡିଆ",
+    "urdu": "اردو"
+  },
+  "subjects": {
+    "chooseSubject": "एक विषय चुनें",
+    "physics": "भौतिकी",
+    "chemistry": "रसायन विज्ञान",
+    "biology": "जीव विज्ञान",
+    "mathematics": "गणित",
+    "technology": "प्रौद्योगिकी",
+    "finance": "वित्त",
+    "entrepreneurship": "उद्यमिता",
+    "villageSkills": "गांव कौशल",
+    "physics_description": "प्रकृति के नियमों की खोज करें",
+    "chemistry_description": "मिलाएं, प्रतिक्रिया करें और खोजें",
+    "biology_description": "जीवन विज्ञान और स्वास्थ्य",
+    "mathematics_description": "संख्याएं, पैटर्न और समस्या समाधान",
+    "technology_description": "सिस्टम, कोडिंग और डिजिटल दुनिया",
+    "finance_description": "पैसा, बाजार और अर्थशास्त्र",
+    "entrepreneurship_description": "व्यावसायिक विचार और नवाचार",
+    "villageSkills_description": "व्यावहारिक जीवन और सामुदायिक कौशल"
+  },
+  "tasks": {
+    "yourTasks": "आपके कार्य",
+    "noTasksAvailable": "अभी कोई कार्य उपलब्ध नहीं है",
+    "completeTasksToEarn": "पुरस्कार अर्जित करने और स्तर बढ़ाने के लिए कार्य पूरा करें! 🚀",
+    "title": "कार्य",
+    "showing": "📋 दिखा रहा है",
+    "viewAll": "सभी देखें",
+    "tryDifferentCategory": "एक अलग श्रेणी चुनने का प्रयास करें",
+    "earnRewards": "पुरस्कार अर्जित करने के लिए कार्य पूरा करें!",
+    "checkSoon": "जल्द ही अधिक कार्यों के लिए जांचें",
+    "startTask": "शुरू करने के लिए एक उपलब्ध कार्य चलाएं!",
+    "progress": "प्रगति",
+    "inProgress": "प्रगति में...",
+    "verifiedByTeacher": "✅ शिक्षक द्वारा सत्यापित",
+    "pendingVerification": "⏳ सत्यापन लंबित",
+    "rejectedRetry": "❌ अस्वीकृत - कृपया पुनः प्रयास करें",
+    "categories": {
+      "village": "गांव",
+      "family": "परिवार",
+      "subject": "विषय",
+      "personal": "व्यक्तिगत"
+    },
+    "status": {
+      "locked": "बंद",
+      "ready": "तैयार",
+      "inProgress": "प्रगति पर",
+      "awaitingProof": "प्रमाण की प्रतीक्षा",
+      "underReview": "समीक्षा में",
+      "completed": "पूर्ण",
+      "rejected": "अस्वीकृत"
+    },
+    "actions": {
+      "unlockTask": "कार्य को अनलॉक करें",
+      "startTask": "🚀 कार्य शुरू करें",
+      "continueTask": "▶️ कार्य जारी रखें",
+      "submitProof": "प्रमाण जमा करें"
+    },
+    "proof": {
+      "photo": "📸 फोटो",
+      "text": "✍️ लिखें",
+      "auto": "✓ स्वचालित"
+    },
+    "emptyCompleted": "अभी तक कोई पूर्ण कार्य नहीं",
+    "emptyActive": "कोई सक्रिय कार्य नहीं",
+    "emptyAvailable": "कोई उपलब्ध कार्य नहीं",
+    "emptyAll": "कोई कार्य उपलब्ध नहीं"
+  },
+  "rewards": {
+    "title": "पुरस्कार",
+    "rewardsMarketplace": "पुरस्कार बाजार",
+    "balance": "संतुलन",
+    "eduCoins": "एडु सिक्के",
+    "earned": "अर्जित",
+    "spent": "खर्च किया गया",
+    "redeemRewards": "पुरस्कार रिडीम करें",
+    "awesome": "शानदार!",
+    "earnedByLearning": "आपने सीखने से यह अर्जित किया है!",
+    "continueShopping": "खरीदारी जारी रखें",
+    "noRewardsInCategory": "इस श्रेणी में कोई पुरस्कार नहीं है",
+    "keepLearningKeepEarning": "सीखते रहें, कमाते रहें!",
+    "redeemSuccess": "🎉 आपने {{name}} रिडीम कर लिया है!",
+    "needMoreCoins": "{{needed}} अधिक एडु सिक्के चाहिए!",
+    "almostThere": "लगभग हो गया!",
+    "locked": "बंद",
+    "redeem": "रिडीम करें",
+    "earn": "अर्जित करें",
+    "more": "अधिक",
+    "transactionHistory": "लेनदेन का इतिहास",
+    "noTransactions": "अब तक कोई लेनदेन नहीं",
+    "completeTasksToEarnCoins": "एडु सिक्के अर्जित करने के लिए गेम और कार्यों को पूरा करें!",
+    "backToRewards": "पुरस्कारों पर वापस जाएं",
+    "viewHistory": "इतिहास देखें",
+    "motivationalMessage": "हर कार्य, खेल और उपलब्धि आपको—आपके, आपके परिवार के और आपके गांव के लिए—मायने रखने वाले पुरस्कारों के करीब ले आती है।",
+    "filters": {
+      "all": "सभी पुरस्कार",
+      "stationery": "स्टेशनरी",
+      "study_purpose": "अध्ययन उद्देश्य",
+      "household_needs": "घरेलू आवश्यकताएं",
+      "farming_needs": "कृषि आवश्यकताएं",
+      "premium": "प्रीमियम",
+      "study_kits": "अध्ययन किट",
+      "upskilling_books": "कौशल उन्नयन पुस्तकें",
+      "community_building": "सामुदायिक विकास"
+    },
+    "filterDescriptions": {
+      "all": "सभी उपलब्ध पुरस्कार देखें",
+      "stationery": "गुणवत्ता लेखन और ड्राइंग आपूर्ति",
+      "study_purpose": "कार्यस्थान और अध्ययन आवश्यकताएं",
+      "household_needs": "परिवारों के लिए दैनिक आवश्यकताएं",
+      "farming_needs": "कृषि सफलता के लिए उपकरण",
+      "premium": "आकांक्षी दीर्घकालिक लक्ष्य",
+      "study_kits": "व्यावहारिक सीखने के किट",
+      "upskilling_books": "विकास के लिए ज्ञान",
+      "community_building": "गांव के विकास की संपत्ति"
+    }
+  },
+  "physics": {
+    "title": "भौतिकी",
+    "description": "प्रकृति के नियमों की खोज करें",
+    "games": {
+      "voltageTraP": "वोल्टेज ट्रैप",
+      "voltageTraP_description": "सर्किट को नेविगेट करें और बिजली को समझें",
+      "waveRider": "वेव राइडर",
+      "waveRider_description": "तरंगों और दोलनों में महारत हासिल करें",
+      "forceBuilder": {
+        "title": "फोर्स बिल्डर",
+        "description": "वस्तुओं को हिलाने के लिए बल बनाएं और लागू करें",
+        "instruction": "वस्तुओं को लक्ष्य तक ले जाने के लिए सही बल लागू करें!"
+      },
+      "gravityDrop": "गुरुत्वाकर्षण ड्रॉप",
+      "gravityDrop_description": "गुरुत्वाकर्षण की शक्ति का अनुभव करें",
+      "energyQuest": "ऊर्जा खोज",
+      "energyQuest_description": "ऊर्जा को परिवर्तित और संरक्षित करें",
+      "projectileMotion": {
+        "title": "प्रक्षेप्य गति",
+        "description": "सही कोण और गति से तोप को निकालकर लक्ष्य को मारें",
+        "instruction": "तोप को लक्ष्य करें और लक्ष्यों को मारने के लिए निकालें!"
+      }
+    }
+  },
+  "chemistry": {
+    "title": "रसायन विज्ञान",
+    "description": "मिलाएं, प्रतिक्रिया करें और खोजें",
+    "games": {
+      "reactionDetective": {
+        "title": "प्रतिक्रिया जासूस",
+        "description": "रासायनिक प्रतिक्रियाओं को पहचानें और समझें",
+        "instruction": "रासायनिक प्रतिक्रियाओं को समझें!"
+      },
+      "periodicTable": "आवर्त सारणी",
+      "periodicTable_description": "तत्वों और उनके गुणों की खोज करें",
+      "moleculeBuilder": {
+        "title": "अणु निर्माता",
+        "description": "परमाणुओं से अणु बनाएं",
+        "instruction": "परमाणुओं को जोड़कर अणु बनाएं!"
+      },
+      "propertyPuzzle": "संपत्ति पहेली",
+      "propertyPuzzle_description": "सामग्रियों को उनके गुणों से मिलाएं",
+      "equationBuilder": {
+        "title": "समीकरण निर्माता",
+        "description": "रासायनिक समीकरणों को संतुलित करें",
+        "instruction": "रासायनिक समीकरणों को संतुलित करें!"
+      }
+    }
+  },
+  "biology": {
+    "title": "जीव विज्ञान",
+    "description": "जीवन विज्ञान और स्वास्थ्य",
+    "games": {
+      "sproutHelp": {
+        "title": "स्प्राउट मदद",
+        "description": "पानी, धूप और हवा को संतुलित करके पौधे उगाएं",
+        "help": "सही परिस्थितियां प्रदान करके स्प्राउट को बढ़ने में मदद करें!"
+      },
+      "goodGermVsBadGerm": {
+        "title": "अच्छा कीटाणु बनाम बुरा कीटाणु",
+        "description": "रोगजनकों से लड़कर प्रतिरक्षा प्रणाली को समझें",
+        "help": "हानिकारक कीटाणुओं से अपने शरीर की रक्षा करें!"
+      },
+      "cycleTap": {
+        "title": "चक्र टैप",
+        "description": "पारिस्थितिकी तंत्र में प्राकृतिक चक्रों के बारे में जानें",
+        "help": "सही तत्वों पर टैप करके चक्र को पूरा करें!"
+      },
+      "biologyExplorer": "जीव विज्ञान अन्वेषक",
+      "biologyExplorer_description": "विभिन्न पैमानों पर जीवन की खोज करें"
+    }
+  },
+  "mathematics": {
+    "title": "गणित",
+    "description": "संख्याएं, पैटर्न और समस्या समाधान",
+    "games": {
+      "mathMissions": "गणित मिशन",
+      "mathMissions_description": "गणित चुनौतियों और पहेलियों को पूरा करें"
+    }
+  },
+  "technology": {
+    "title": "प्रौद्योगिकी",
+    "description": "सिस्टम, कोडिंग और डिजिटल दुनिया",
+    "games": {
+      "debugDungeon": {
+        "title": "डिबग डंजन",
+        "description": "कोड में बग खोजें और ठीक करें",
+        "instruction": "सिस्टम में टूटी हुई चीजों को पहचानें और समझें कि उन्हें कैसे ठीक करें!"
+      },
+      "systemBuilder": {
+        "title": "सिस्टम बिल्डर",
+        "description": "सही क्रम के साथ सिस्टम बनाएं",
+        "instruction": "हर सिस्टम के चरण हैं जो सही क्रम में होने चाहिए"
+      },
+      "villageLightUp": {
+        "title": "गांव रोशनी",
+        "description": "सर्किट पूरा करने के लिए वायर टाइलों को घुमाएं और लाइटें चलाएं",
+        "instruction": "सभी घरों को रोशन करने के लिए विद्युत सर्किट पूरा करें!"
+      }
+    },
+    "activeLearning": {
+      "title": "करके सीखें",
+      "points": [
+        "सिस्टम को चरण दर चरण समझें",
+        "वास्तविक दुनिया की समस्याओं को हल करें",
+        "कोड बनाएं और डिबग करें"
+      ]
+    }
+  },
+  "finance": {
+    "title": "वित्त",
+    "description": "पैसा, बाजार और अर्थशास्त्र",
+    "games": {
+      "budgetSurvival": "बजट जीवन",
+      "budgetSurvival_description": "वास्तविक जीवन के परिदृश्यों के माध्यम से पैसा प्रबंधित करें",
+      "priceNegotiator": "मूल्य वार्ताकार",
+      "priceNegotiator_description": "वार्तालाप और व्यापार कौशल सीखें",
+      "savingsTree": "बचत वृक्ष",
+      "savingsTree_description": "समय के साथ अपनी बचत को बढ़ते देखें",
+      "interestSimulator": "ब्याज सिम्युलेटर",
+      "interestSimulator_description": "चक्रवृद्धि ब्याज को समझें",
+      "businessBuilder": "व्यवसाय निर्माता",
+      "businessBuilder_description": "अपना खुद का व्यवसाय बनाएं और प्रबंधित करें"
+    }
+  },
+  "entrepreneurship": {
+    "title": "उद्यमिता",
+    "description": "व्यावसायिक विचार और नवाचार",
+    "games": {
+      "customerFirst": "ग्राहक पहले",
+      "customerFirst_description": "ग्राहक संबंध और वफादारी बनाएं",
+      "ideaToIncome": "विचार से आय",
+      "ideaToIncome_description": "अपने विचारों को लाभदायक व्यवसाय में बदलें"
+    },
+    "activeLearning": {
+      "title": "करके सीखें",
+      "points": [
+        "व्यावसायिक विचार विकसित करें",
+        "ग्राहकों की जरूरतों को समझें",
+        "टिकाऊ आय बनाएं"
+      ]
+    }
+  },
+  "villageSkills": {
+    "title": "गांव कौशल",
+    "description": "व्यावहारिक जीवन और सामुदायिक कौशल",
+    "activeLearning": {
+      "title": "करके सीखें",
+      "points": [
+        "व्यावहारिक कौशल विकसित करें",
+        "अपने समुदाय की मदद करें",
+        "टिकाऊ प्रथाएं बनाएं"
+      ]
+    }
+  },
+  "learning": {
+    "active": "सक्रिय सीखना",
+    "passive": "निष्क्रिय सीखना",
+    "gamified": "गेमिफाइड सीखना",
+    "activeDescription": "करके और वास्तविक समस्याओं को हल करके सीखें",
+    "passiveDescription": "संरचित सामग्री को देखें और सुनें",
+    "gamifiedDescription": "इंटरेक्टिव गेम और चुनौतियों के माध्यम से सीखें",
+    "backToSubject": "विषय पर वापस जाएं"
+  },
+  "profile": {
+    "title": "प्रोफाइल",
+    "name": "नाम",
+    "location": "स्थान",
+    "school": "स्कूल",
+    "achievements": "उपलब्धियां",
+    "stats": "आंकड़े",
+    "editProfile": "प्रोफाइल संपादित करें",
+    "settings": "सेटिंग्स",
+    "language": "भाषा",
+    "notifications": "सूचनाएं",
+    "darkMode": "डार्क मोड",
+    "privacy": "गोपनीयता",
+    "logOut": "लॉगआउट करें"
+  }
+}
